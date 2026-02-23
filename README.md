@@ -50,11 +50,11 @@ Chaque objet aura un identifiant unique en base.
 
 @GeneratedValue(strategy = GenerationType.IDENTITY) :Permet de générer automatiquement la valeur de la clé primaire (auto-incrément).
 
-@OneToMany :Représente une relation un à plusieurs (1 → N).
+@OneToMany :Représente une relation un à plusieurs .
 
 
-@ManyToOne :Représente une relation plusieurs à un (N → 1).
+@ManyToOne :Représente une relation plusieurs à un .
 
 
-@ManyToMany :Représente une relation plusieurs à plusieurs (N ↔ N).
+@ManyToMany :Représente une relation plusieurs à plusieurs .
 
