@@ -5,6 +5,22 @@
 <img width="1833" height="901" alt="Capture d&#39;écran 2026-02-23 200859" src="https://github.com/user-attachments/assets/d3c58a2d-73d9-4810-bb27-f176cebcb266" />
 <img width="1869" height="931" alt="Capture d&#39;écran 2026-02-23 200934" src="https://github.com/user-attachments/assets/341039a0-d9f6-481b-84ef-e8d0f19129d0" />
 <img width="1869" height="916" alt="Capture d&#39;écran 2026-02-23 201002" src="https://github.com/user-attachments/assets/3c0c5e4d-0bf8-49dd-87bf-19e61287de96" />
+<img width="1811" height="892" alt="image" src="https://github.com/user-attachments/assets/2991e2a1-2ca9-44c7-804a-e1abc3137208" />
+<img width="1819" height="882" alt="image" src="https://github.com/user-attachments/assets/76dbaffd-4909-40f5-9d7d-2320fd637dfe" />
+<img width="1827" height="884" alt="image" src="https://github.com/user-attachments/assets/ba962832-e405-4908-b7ce-329fcdb8f9ad" />
+<img width="1821" height="886" alt="image" src="https://github.com/user-attachments/assets/2df264fe-96ea-4f09-b931-dee11e462674" />
+
+## Résultat d’exécution:
+
+L’application a été exécutée avec succès en utilisant Hibernate ORM et la base de données en mémoire. 
+
+Hibernate a automatiquement créé les tables nécessaires au démarrage.
+
+L’utilisateur peut ajouter un utilisateur, ajouter une salle et créer une réservation via un menu.
+
+Les opérations d’insertion dans la base de données sont exécutées à l’aide de Hibernate.
+
+
 <img width="1028" height="883" alt="Capture d&#39;écran 2026-02-23 203218" src="https://github.com/user-attachments/assets/75e6038a-9ced-4038-af82-339b98ed91d4" />
 
 # Analyse du diagramme de classes:
